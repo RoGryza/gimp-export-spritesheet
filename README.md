@@ -18,8 +18,8 @@ Export multiple layers from [GIMP](https://www.gimp.org/) to a spritesheet (png+
 ![GIMP](_sample/spritesheet.png)
 ```json
 {
-      "frames": 6,
-      "frame_width": 32,
-      "frame_height": 32
+    "frame_height": 32, 
+    "frame_width": 32, 
+    "frames": 7
 }
 ```
